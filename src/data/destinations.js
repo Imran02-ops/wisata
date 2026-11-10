@@ -180,7 +180,7 @@ export const destinations = [
     island: "Gili",
     location: "Pemenang, Lombok Utara, NTB",
     image:
-      "https://lepirate.com/wp-content/uploads/2025/02/Homepage-GiliMeno-Hero-6-1600x900.png",
+      "https://images.unsplash.com/photo-1733016658164-09acc5293ef8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     description:
       "Gili Meno merupakan salah satu pulau dalam kawasan Tiga Gili. Destinasi ini dikenal dengan suasana lebih tenang dan keindahan bawah lautnya.",
     ticket: "Biaya penyeberangan menyesuaikan",
@@ -366,7 +366,7 @@ export const destinations = [
     island: "Lombok",
     location: "Mandalika, Lombok Tengah, NTB",
     image:
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200",
+      "https://images.unsplash.com/photo-1595740802643-4cc5beb11b00?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     description:
       "Bukit Merese memiliki panorama laut dan hamparan perbukitan yang luas. Tempat ini menjadi salah satu lokasi favorit untuk menikmati matahari terbenam di kawasan Mandalika.",
     ticket: "Estimasi Rp5.000",
@@ -380,7 +380,7 @@ export const destinations = [
     island: "Lombok",
     location: "Sembalun, Lombok Timur, NTB",
     image:
-      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNAduM81AriMhIZcjP_9a6ltl_i5VOXN2XztSeIZk01A&s=10",
     description:
       "Bukit Selong menawarkan pemandangan hamparan sawah dan perbukitan di kawasan Sembalun. Dari atas bukit, pengunjung dapat melihat lanskap pertanian dengan latar Gunung Rinjani.",
     ticket: "Estimasi Rp5.000",
@@ -394,7 +394,7 @@ export const destinations = [
     island: "Lombok",
     location: "Sembalun, Lombok Timur, NTB",
     image:
-      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1200",
+      "https://trilokalomboktransport.com/wp-content/uploads/2026/11/paket-wisata-Bukit-Pergasingan.jpg",
     description:
       "Bukit Pergasingan merupakan kawasan perbukitan yang populer untuk trekking dan menikmati pemandangan Sembalun dari ketinggian.",
     ticket: "Mengikuti ketentuan pengelola",
@@ -408,7 +408,7 @@ export const destinations = [
     island: "Lombok",
     location: "Sembalun, Lombok Timur, NTB",
     image:
-      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200",
+      "https://thumb.viva.id/vivabali/665x374/2025/08/31/68b3d5214b2e5-taman-surga-rinjani-sembalun-lombok-timur_bali.jpg",
     description:
       "Sembalun merupakan kawasan dataran tinggi di kaki Gunung Rinjani yang memiliki panorama pegunungan, perkebunan, dan hamparan pertanian.",
     ticket: "Menyesuaikan lokasi wisata",
@@ -436,7 +436,7 @@ export const destinations = [
     island: "Sumbawa",
     location: "Poto Tano, Sumbawa Barat, NTB",
     image:
-      "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1200",
+      "https://zjglidcehtsqqqhbdxyp.supabase.co/storage/v1/object/public/atourin/images/destination/sumbawa/bukit-mantar-profile1645694173.png?x-image-process=image/resize,p_100,limit_1/imageslim",
     description:
       "Bukit Mantar berada di dataran tinggi Sumbawa Barat dan dikenal dengan pemandangan perbukitan, laut, serta panorama alam dari ketinggian.",
     ticket: "Mengikuti ketentuan pengelola",
@@ -454,7 +454,7 @@ export const destinations = [
     island: "Lombok",
     location: "Aik Berik, Lombok Tengah, NTB",
     image:
-      "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_8RteGv8TGjXLBwWnl04NcCu7pQUABPUCI_OpiH89Q&s=10",
     description:
       "Air Terjun Benang Kelambu memiliki aliran air yang keluar dari sela-sela vegetasi sehingga membentuk tampilan menyerupai tirai alami.",
     ticket: "Mengikuti tarif pengelola",
@@ -468,7 +468,7 @@ export const destinations = [
     island: "Lombok",
     location: "Aik Berik, Lombok Tengah, NTB",
     image:
-      "https://images.unsplash.com/photo-1511497584788-876760111969?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaI_187kqmte26sbQQzweMfGbvsnlwesL64PmQMoWJdg&s=10",
     description:
       "Air Terjun Benang Stokel memiliki beberapa aliran air yang jatuh dari tebing tinggi. Destinasi ini berada dalam kawasan wisata alam Aik Berik.",
     ticket: "Mengikuti tarif pengelola",
@@ -482,7 +482,7 @@ export const destinations = [
     island: "Lombok",
     location: "Senaru, Lombok Utara, NTB",
     image:
-      "https://images.unsplash.com/photo-1511497584788-876760111969?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOPBAC0Nb6yNdtKPt6q_v2ZCg7PXwwBuWTYrTVmNkDg&s=10",
     description:
       "Air Terjun Sendang Gile berada di kawasan Senaru, di kaki Gunung Rinjani. Airnya mengalir di antara pepohonan dan tebing yang menciptakan suasana sejuk.",
     ticket: "Mengikuti tarif pengelola",
@@ -496,7 +496,7 @@ export const destinations = [
     island: "Lombok",
     location: "Senaru, Lombok Utara, NTB",
     image:
-      "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnaVXlpPXILVNMke0eLfS6n1PnVidNZEv6sKPDkvQ3FA&s=10",
     description:
       "Air Terjun Tiu Kelep dikenal dengan aliran air yang tinggi dan suasana hutan tropis. Destinasi ini dapat dijangkau melalui jalur trekking di kawasan Senaru.",
     ticket: "Mengikuti tarif pengelola",
@@ -510,7 +510,7 @@ export const destinations = [
     island: "Lombok",
     location: "Sajang, Sembalun, Lombok Timur, NTB",
     image:
-      "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyHKLaOrZKN_N5IvpC88ULSBBG8WShwYoFMbpFBoLCA&s=10",
     description:
       "Air Terjun Mangku Sakti berada di kawasan Sembalun. Air terjun ini memiliki karakter aliran air dan bebatuan yang menjadi daya tarik wisata alam.",
     ticket: "Mengikuti ketentuan pengelola",
@@ -524,7 +524,7 @@ export const destinations = [
     island: "Sumbawa",
     location: "Pulau Moyo, Kabupaten Sumbawa, NTB",
     image:
-      "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ILJHH4nlHl0hVwQZ5G-pQRvoZpLF__pmJ5zhxLSoZw&s=10",
     description:
       "Air Terjun Mata Jitu merupakan objek wisata alam di Pulau Moyo. Air terjun ini dikenal dengan undakan kolam alami dan suasana hutan yang masih asri.",
     ticket: "Biaya perjalanan dan kunjungan menyesuaikan",
@@ -538,7 +538,7 @@ export const destinations = [
     island: "Sumbawa",
     location: "Kabupaten Sumbawa, NTB",
     image:
-      "https://images.unsplash.com/photo-1511497584788-876760111969?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNVW3PSAm0TBQTsNSRT0-ZeK5J8IINdiYRKZH26GvTWw&s=10",
     description:
       "Air Terjun Agal merupakan salah satu tujuan wisata alam di Pulau Sumbawa dengan pemandangan air terjun dan lingkungan alami yang menarik.",
     ticket: "Mengikuti ketentuan pengelola",
@@ -556,7 +556,7 @@ export const destinations = [
     island: "Lombok",
     location: "Rembitan, Lombok Tengah, NTB",
     image:
-      "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-QaciKjPZG5psv9guvp1ACkARlrRFHX6vZwFsU0dIw&s=10",
     description:
       "Desa Adat Sade merupakan permukiman masyarakat Sasak yang mempertahankan rumah tradisional, tradisi lokal, dan kerajinan tenun khas Lombok.",
     ticket: "Donasi sesuai ketentuan pengelola",
@@ -570,7 +570,7 @@ export const destinations = [
     island: "Lombok",
     location: "Pujut, Lombok Tengah, NTB",
     image:
-      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh8JJNruZrNbwkpM41F_fjTwDphDsHCh5tcvMshzYo1Q&s=10",
     description:
       "Desa Adat Ende merupakan salah satu desa wisata budaya masyarakat Sasak. Pengunjung dapat mengenal rumah tradisional, kehidupan masyarakat, dan kebudayaan lokal.",
     ticket: "Mengikuti ketentuan pengelola",
@@ -584,7 +584,7 @@ export const destinations = [
     island: "Lombok",
     location: "Lingsar, Lombok Barat, NTB",
     image:
-      "https://images.unsplash.com/photo-1604999333679-b86d54738315?w=1200",
+      "https://cdn-jpr.jawapos.com/images/41/2024/07/26/Pura-Lingsar-Lombok-Gambar-dari-Rostasedlacek-Shutterstock-2487271013.png",
     description:
       "Pura Lingsar merupakan tempat ibadah bersejarah di Lombok yang mencerminkan keberagaman tradisi dan kehidupan masyarakat setempat.",
     ticket: "Mengikuti ketentuan pengelola",
@@ -598,7 +598,7 @@ export const destinations = [
     island: "Lombok",
     location: "Kota Mataram, NTB",
     image:
-      "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXVGir9qe9_h2Ey7MsZ9Yg6qpedQYHfe_iKoELFqaNw&s=10",
     description:
       "Islamic Center Mataram merupakan salah satu landmark religi di Kota Mataram. Bangunannya memiliki arsitektur khas dan menjadi salah satu tujuan wisata religi di Lombok.",
     ticket: "Mengikuti ketentuan pengelola",
@@ -612,7 +612,7 @@ export const destinations = [
     island: "Lombok",
     location: "Bayan, Lombok Utara, NTB",
     image:
-      "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9H3e226X3_vXQSnsrq92-mE9oBTVMCGjUBQ8MQYgd6Q&s=10",
     description:
       "Masjid Kuno Bayan Beleq merupakan peninggalan sejarah Islam di Lombok Utara. Bangunan ini memiliki nilai budaya dan sejarah bagi masyarakat setempat.",
     ticket: "Mengikuti ketentuan pengelola",
@@ -626,7 +626,7 @@ export const destinations = [
     island: "Lombok",
     location: "Lombok Tengah, NTB",
     image:
-      "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_VBcPR4-ed50WDXWBb6USVOwk2s4Oi7V6Clxw4NQnMXn4ilKhWmuLSgL&s=10",
     description:
       "Desa wisata di kawasan Lombok Tengah menawarkan pengalaman mengenal kehidupan masyarakat lokal, tradisi, dan kegiatan budaya setempat.",
     ticket: "Mengikuti ketentuan pengelola",
@@ -640,7 +640,7 @@ export const destinations = [
     island: "Sumbawa",
     location: "Kota Sumbawa Besar, NTB",
     image:
-      "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?w=1200",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9HQa6kzw460JSe8bMt8iHLgXpj12NdeY19n4T-zlVw&s=10",
     description:
       "Istana Dalam Loka merupakan bangunan bersejarah peninggalan Kesultanan Sumbawa. Bangunan kayu tradisional ini menjadi salah satu simbol sejarah dan kebudayaan Sumbawa.",
     ticket: "Mengikuti ketentuan pengelola",
